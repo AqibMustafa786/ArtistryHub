@@ -1,0 +1,130 @@
+{
+  "branding": {
+    "name": "Artistry Hub",
+    "title": "Creative Design Studio",
+    "description": "Premium 2D/3D Assets, Character Art & Professional Stream Overlays.",
+    "avatar": "",
+    "fullProfileUrl": "https://www.behance.net/artistryhubb"
+  },
+  "contact": {
+    "discord": "https://discord.gg/artistryhub",
+    "whatsapp": "https://wa.me/yournumber",
+    "email": "mailto:contact@artistryhub.com"
+  },
+  "categories": [
+    {
+      "id": "logos",
+      "title": "Logos",
+      "url": "https://www.behance.net/gallery/227912537/Logos",
+      "icon": "Palette"
+    },
+    {
+      "id": "banners",
+      "title": "Banners",
+      "url": "https://www.behance.net/gallery/227918223/Banners",
+      "icon": "Image"
+    },
+    {
+      "id": "overlays",
+      "title": "Overlays",
+      "url": "https://www.behance.net/gallery/227921709/Overlays",
+      "icon": "Layers"
+    },
+    {
+      "id": "panels",
+      "title": "Panels",
+      "url": "https://www.behance.net/gallery/227979243/Panels",
+      "icon": "Layout"
+    },
+    {
+      "id": "alerts",
+      "title": "Alerts",
+      "url": "https://www.behance.net/gallery/228047483/Alerts",
+      "icon": "Bell"
+    },
+    {
+      "id": "emotes",
+      "title": "Emotes",
+      "url": "https://www.behance.net/gallery/228050329/Emotes",
+      "icon": "Smile"
+    },
+    {
+      "id": "character-art",
+      "title": "2D Character Art",
+      "url": "https://www.behance.net/gallery/232819147/2D-Character-Art",
+      "icon": "User"
+    },
+    {
+      "id": "screens",
+      "title": "2D Screens",
+      "url": "https://www.behance.net/gallery/227924599/2D-Screens",
+      "icon": "Monitor"
+    },
+    {
+      "id": "3d-screens",
+      "title": "3D Screens & Intros",
+      "url": "https://www.behance.net/gallery/227975903/3D-Screens-Intros",
+      "icon": "Box"
+    },
+    {
+      "id": "vtuber",
+      "title": "Vtuber & Game Models",
+      "url": "https://www.behance.net/gallery/227989493/2D3D-Vtuber-and-Game-models",
+      "icon": "Cpu"
+    },
+    {
+      "id": "thumbnails",
+      "title": "Thumbnails",
+      "url": "https://www.behance.net/gallery/227922973/Thumbnails",
+      "icon": "Smartphone"
+    },
+    {
+      "id": "game-assets",
+      "title": "Game Assets",
+      "url": "https://www.behance.net/gallery/242978013/Game-Assets",
+      "icon": "Shield"
+    },
+    {
+      "id": "game-maps",
+      "title": "Game Maps",
+      "url": "https://www.behance.net/gallery/242978245/Game-Maps-(3D)",
+      "icon": "Map"
+    },
+    {
+      "id": "sub-badges",
+      "title": "Sub Badges",
+      "url": "https://www.behance.net/gallery/228124451/Sub-Bagdes",
+      "icon": "Award"
+    },
+    {
+      "id": "video-edits",
+      "title": "Video Edits",
+      "url": "https://www.behance.net/gallery/242984647/Video-Edits-Montages",
+      "icon": "Video"
+    },
+    {
+      "id": "stinger",
+      "title": "Stinger Transition",
+      "url": "https://www.behance.net/gallery/242989897/Stinger-Transition",
+      "icon": "RefreshCw"
+    },
+    {
+      "id": "book-covers",
+      "title": "Book Covers",
+      "url": "https://www.behance.net/gallery/235516013/Book-Covers",
+      "icon": "Book"
+    },
+    {
+      "id": "wallpapers",
+      "title": "Wallpapers",
+      "url": "https://www.behance.net/gallery/243502947/Wallpapers",
+      "icon": "PictureInPicture"
+    },
+    {
+      "id": "sketches",
+      "title": "Sketches",
+      "url": "https://www.behance.net/gallery/227999809/Sketches",
+      "icon": "PenTool"
+    }
+  ]
+}
